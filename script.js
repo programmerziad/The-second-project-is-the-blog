@@ -1,4 +1,4 @@
-const toggle = document.getElementById("theme-toggle");
+    const toggle = document.getElementById("theme-toggle");
     const icon = toggle.querySelector("i");
     const body = document.body;
     const backToTop = document.getElementById("backToTop");
